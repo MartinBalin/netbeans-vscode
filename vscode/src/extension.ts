@@ -74,7 +74,7 @@ const DATABASE: string = 'Database';
 export const listeners = new Map<string, string[]>();
 export let client: Promise<NbLanguageClient>;
 export let clientRuntimeJDK : string | null = null;
-export const MINIMAL_JDK_VERSION = 17;
+export const MINIMAL_JDK_VERSION = 21;
 export const TEST_PROGRESS_EVENT: string = "testProgress";
 const TEST_ADAPTER_CREATED_EVENT: string = "testAdapterCreated";
 let testAdapter: NbTestAdapter | undefined;

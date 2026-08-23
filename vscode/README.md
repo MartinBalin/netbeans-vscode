@@ -26,7 +26,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/apache/netbeans-vscode/blob/master/LICENSE)
 
 
-This is [Apache NetBeans](http://netbeans.org) Language Server extension for VS Code. Use it to get all the _goodies of NetBeans_ via the VS Code user interface! Runs on __JDK17__ and all newer versions.
+This is [Apache NetBeans](http://netbeans.org) Language Server extension for VS Code. Use it to get all the _goodies of NetBeans_ via the VS Code user interface! Runs on __JDK21__ and all newer versions.
 
 Apache NetBeans Language Server brings full featured Java development (edit-compile-debug & test cycle) for Maven and Gradle projects to VSCode. As well as other features.
 ## Getting Started
